@@ -1,0 +1,13 @@
+{
+	"user_name":"Vadim",
+	"user_age": 33,
+	"user_devices": {
+
+				"device_1": "iPhone 12 pro",
+				"device_2": "Samsung A52"
+
+			}
+
+
+
+}
